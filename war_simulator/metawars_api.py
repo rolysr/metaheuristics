@@ -276,7 +276,7 @@ def simulation(left_army: List[Unit], right_army: List[Unit]):
                 continue
 
             # The attack was a hit!    
-            damage = random.randint(int(unit.min_damage), int(unit.max_damage))
+            damage = (unit.max_damage - unit.min_damage)*random.random() + unit.min_damage
             if (throw == 20):
                 damage = damage*3
             print(f"{attacker.name} landed an attack on {defender.name} and dealt [{damage}] damage!")

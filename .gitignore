@@ -6,10 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-#armies data
-test_left_army.json
-test_right_army.json
-
 # Distribution / packaging
 .Python
 build/

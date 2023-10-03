@@ -4,34 +4,34 @@
         "weapon": "diamond",
         "armour": "steel",
         "level": 3,
-        "name": "Gumbo"
+        "name": "Bonkers"
     },
     {
         "unit_type": "swordman",
         "weapon": "steel",
         "armour": "wood",
         "level": 4,
-        "name": "Sassafras"
+        "name": "Flapdoodle"
     },
     {
         "unit_type": "swordman",
         "weapon": "steel",
         "armour": "wood",
         "level": 3,
-        "name": "Wobblebottom"
+        "name": "Whiskers"
     },
     {
         "unit_type": "archer",
         "weapon": "diamond",
         "armour": "wood",
         "level": 1,
-        "name": "Mr. Bumble"
+        "name": "Beanie"
     },
     {
         "unit_type": "archer",
         "weapon": "diamond",
         "armour": "wood",
         "level": 2,
-        "name": "Scootch"
+        "name": "Wobblebottom"
     }
 ]
