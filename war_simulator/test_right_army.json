@@ -4,34 +4,34 @@
         "weapon": "diamond",
         "armour": "steel",
         "level": 3,
-        "name": "Wiggle Worm"
+        "name": "Muffin"
     },
     {
         "unit_type": "swordman",
         "weapon": "steel",
         "armour": "wood",
         "level": 4,
-        "name": "Bumble Bop"
+        "name": "Wiggle Worm"
     },
     {
         "unit_type": "swordman",
         "weapon": "steel",
         "armour": "wood",
         "level": 3,
-        "name": "Bonkers"
+        "name": "Cheeky Chimp"
     },
     {
         "unit_type": "archer",
         "weapon": "diamond",
         "armour": "wood",
         "level": 1,
-        "name": "Flapjack"
+        "name": "Bonkers"
     },
     {
         "unit_type": "archer",
         "weapon": "diamond",
         "armour": "wood",
         "level": 2,
-        "name": "Squishy"
+        "name": "Silly Goose"
     }
 ]

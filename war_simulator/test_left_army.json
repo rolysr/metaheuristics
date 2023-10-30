@@ -11,27 +11,27 @@
         "weapon": "steel",
         "armour": "wood",
         "level": 4,
-        "name": "Flapdoodle"
+        "name": "Snickerdoodle"
     },
     {
         "unit_type": "swordman",
         "weapon": "steel",
         "armour": "wood",
         "level": 3,
-        "name": "Whiskers"
+        "name": "Humphrey Butterbean"
     },
     {
         "unit_type": "archer",
         "weapon": "diamond",
         "armour": "wood",
         "level": 1,
-        "name": "Beanie"
+        "name": "Tootsie"
     },
     {
         "unit_type": "archer",
         "weapon": "diamond",
         "armour": "wood",
         "level": 2,
-        "name": "Wobblebottom"
+        "name": "Sassafras"
     }
 ]
