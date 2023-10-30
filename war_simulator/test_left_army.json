@@ -1,37 +1,443 @@
 [
     {
-        "unit_type": "knight",
+        "unit_type": "horseman",
+        "weapon": "wood",
+        "armour": "wood",
+        "level": 5,
+        "name": "Barnabas"
+    },
+    {
+        "unit_type": "peasant",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 11,
+        "name": "Giggles"
+    },
+    {
+        "unit_type": "sniper",
+        "weapon": "diamond",
+        "armour": "wood",
+        "level": 11,
+        "name": "Snoozer"
+    },
+    {
+        "unit_type": "archer",
+        "weapon": "wood",
+        "armour": "steel",
+        "level": 1,
+        "name": "Pepperoni"
+    },
+    {
+        "unit_type": "peasant",
+        "weapon": "wood",
+        "armour": "wood",
+        "level": 1,
+        "name": "Whiskers"
+    },
+    {
+        "unit_type": "peasant",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 5,
+        "name": "Snugglebutt"
+    },
+    {
+        "unit_type": "horseman",
+        "weapon": "diamond",
+        "armour": "steel",
+        "level": 5,
+        "name": "Winifred Pizzapants"
+    },
+    {
+        "unit_type": "defender",
         "weapon": "diamond",
         "armour": "steel",
         "level": 3,
-        "name": "Bonkers"
+        "name": "Chuckles"
     },
     {
-        "unit_type": "swordman",
+        "unit_type": "defender",
+        "weapon": "steel",
+        "armour": "steel",
+        "level": 7,
+        "name": "Zippity Doo"
+    },
+    {
+        "unit_type": "elefant",
+        "weapon": "steel",
+        "armour": "steel",
+        "level": 2,
+        "name": "Winifred Pizzapants"
+    },
+    {
+        "unit_type": "sniper",
         "weapon": "steel",
         "armour": "wood",
+        "level": 10,
+        "name": "Barnabas"
+    },
+    {
+        "unit_type": "elefant",
+        "weapon": "steel",
+        "armour": "diamond",
         "level": 4,
-        "name": "Snickerdoodle"
+        "name": "Snoozy"
     },
     {
-        "unit_type": "swordman",
-        "weapon": "steel",
-        "armour": "wood",
-        "level": 3,
-        "name": "Humphrey Butterbean"
+        "unit_type": "peasant",
+        "weapon": "wood",
+        "armour": "steel",
+        "level": 1,
+        "name": "Banjo"
     },
     {
         "unit_type": "archer",
+        "weapon": "wood",
+        "armour": "steel",
+        "level": 11,
+        "name": "Skipper"
+    },
+    {
+        "unit_type": "spearman",
         "weapon": "diamond",
+        "armour": "wood",
+        "level": 12,
+        "name": "Whiskerface"
+    },
+    {
+        "unit_type": "spearman",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 3,
+        "name": "Doodlebug"
+    },
+    {
+        "unit_type": "elefant",
+        "weapon": "wood",
         "armour": "wood",
         "level": 1,
-        "name": "Tootsie"
+        "name": "Dolores Crumpet"
     },
     {
         "unit_type": "archer",
+        "weapon": "wood",
+        "armour": "wood",
+        "level": 13,
+        "name": "Bananas"
+    },
+    {
+        "unit_type": "spearman",
+        "weapon": "diamond",
+        "armour": "steel",
+        "level": 4,
+        "name": "Zippity Doo"
+    },
+    {
+        "unit_type": "horseman",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 6,
+        "name": "Archibald Blubberknickers"
+    },
+    {
+        "unit_type": "archer",
+        "weapon": "wood",
+        "armour": "wood",
+        "level": 10,
+        "name": "Taco"
+    },
+    {
+        "unit_type": "archer",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 5,
+        "name": "Whiskerface"
+    },
+    {
+        "unit_type": "defender",
+        "weapon": "wood",
+        "armour": "steel",
+        "level": 14,
+        "name": "Eustace Flapdoodle"
+    },
+    {
+        "unit_type": "knight",
+        "weapon": "diamond",
+        "armour": "steel",
+        "level": 2,
+        "name": "Silly Goose"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "diamond",
+        "armour": "steel",
+        "level": 3,
+        "name": "Pepperoni"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "steel",
+        "armour": "wood",
+        "level": 9,
+        "name": "Gigglepants"
+    },
+    {
+        "unit_type": "knight",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 7,
+        "name": "Bippity Bop"
+    },
+    {
+        "unit_type": "elefant",
+        "weapon": "diamond",
+        "armour": "diamond",
+        "level": 8,
+        "name": "Wiggle Worm"
+    },
+    {
+        "unit_type": "peasant",
         "weapon": "diamond",
         "armour": "wood",
+        "level": 8,
+        "name": "Muffin"
+    },
+    {
+        "unit_type": "archer",
+        "weapon": "steel",
+        "armour": "wood",
+        "level": 5,
+        "name": "Banjo"
+    },
+    {
+        "unit_type": "spearman",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 3,
+        "name": "Whippersnap"
+    },
+    {
+        "unit_type": "elefant",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 12,
+        "name": "Silly Billy"
+    },
+    {
+        "unit_type": "spearman",
+        "weapon": "diamond",
+        "armour": "diamond",
+        "level": 6,
+        "name": "Snicklefritz"
+    },
+    {
+        "unit_type": "horseman",
+        "weapon": "wood",
+        "armour": "wood",
+        "level": 8,
+        "name": "Tabitha McSnickerdoodle"
+    },
+    {
+        "unit_type": "sniper",
+        "weapon": "diamond",
+        "armour": "wood",
+        "level": 5,
+        "name": "Ziggy Stardust"
+    },
+    {
+        "unit_type": "peasant",
+        "weapon": "diamond",
+        "armour": "wood",
+        "level": 12,
+        "name": "Bippity Bop"
+    },
+    {
+        "unit_type": "spearman",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 1,
+        "name": "Bippity Bop"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "wood",
+        "armour": "wood",
+        "level": 12,
+        "name": "Pickle"
+    },
+    {
+        "unit_type": "defender",
+        "weapon": "diamond",
+        "armour": "steel",
+        "level": 12,
+        "name": "Boingo"
+    },
+    {
+        "unit_type": "archer",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 8,
+        "name": "Razzle"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "diamond",
+        "armour": "wood",
+        "level": 8,
+        "name": "Bumblebee"
+    },
+    {
+        "unit_type": "defender",
+        "weapon": "diamond",
+        "armour": "steel",
         "level": 2,
-        "name": "Sassafras"
+        "name": "Squiggle"
+    },
+    {
+        "unit_type": "horseman",
+        "weapon": "steel",
+        "armour": "steel",
+        "level": 2,
+        "name": "Wigglebot"
+    },
+    {
+        "unit_type": "peasant",
+        "weapon": "steel",
+        "armour": "wood",
+        "level": 9,
+        "name": "Tabitha McSnickerdoodle"
+    },
+    {
+        "unit_type": "horseman",
+        "weapon": "wood",
+        "armour": "steel",
+        "level": 11,
+        "name": "Mr. Bumble"
+    },
+    {
+        "unit_type": "horseman",
+        "weapon": "diamond",
+        "armour": "diamond",
+        "level": 6,
+        "name": "Montgomery Wobblebottom"
+    },
+    {
+        "unit_type": "knight",
+        "weapon": "diamond",
+        "armour": "steel",
+        "level": 7,
+        "name": "Zigzag"
+    },
+    {
+        "unit_type": "peasant",
+        "weapon": "diamond",
+        "armour": "diamond",
+        "level": 4,
+        "name": "Pudding"
+    },
+    {
+        "unit_type": "spearman",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 9,
+        "name": "Montgomery Wobblebottom"
+    },
+    {
+        "unit_type": "sniper",
+        "weapon": "diamond",
+        "armour": "diamond",
+        "level": 11,
+        "name": "Snoozy"
+    },
+    {
+        "unit_type": "archer",
+        "weapon": "wood",
+        "armour": "steel",
+        "level": 9,
+        "name": "Patroclo"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 14,
+        "name": "Winifred Pizzapants"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "diamond",
+        "armour": "diamond",
+        "level": 3,
+        "name": "Bumble Bop"
+    },
+    {
+        "unit_type": "peasant",
+        "weapon": "steel",
+        "armour": "steel",
+        "level": 1,
+        "name": "Nugget"
+    },
+    {
+        "unit_type": "horseman",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 3,
+        "name": "Fiddlesticks"
+    },
+    {
+        "unit_type": "elefant",
+        "weapon": "diamond",
+        "armour": "wood",
+        "level": 9,
+        "name": "Snugglebutt"
+    },
+    {
+        "unit_type": "defender",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 3,
+        "name": "Whiskers"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "steel",
+        "armour": "diamond",
+        "level": 3,
+        "name": "Sugarpants"
+    },
+    {
+        "unit_type": "knight",
+        "weapon": "diamond",
+        "armour": "wood",
+        "level": 14,
+        "name": "Bippity Bop"
+    },
+    {
+        "unit_type": "elefant",
+        "weapon": "diamond",
+        "armour": "steel",
+        "level": 12,
+        "name": "Fiddlesticks"
+    },
+    {
+        "unit_type": "spearman",
+        "weapon": "wood",
+        "armour": "diamond",
+        "level": 1,
+        "name": "Bananas"
+    },
+    {
+        "unit_type": "archer",
+        "weapon": "steel",
+        "armour": "wood",
+        "level": 11,
+        "name": "Whippersnapper"
+    },
+    {
+        "unit_type": "swordman",
+        "weapon": "wood",
+        "armour": "wood",
+        "level": 2,
+        "name": "Doodle Dandy"
     }
 ]
